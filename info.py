@@ -9,7 +9,7 @@ from os import environ
 
 API_ID       = int(environ.get("API_ID", "24491383"))
 API_HASH     = environ.get("API_HASH", "78e18eba669cc519ffd7a3c89f9ed32a")
-BOT_TOKEN    = environ.get("BOT_TOKEN", "7374373768:AAH0rgmygV-Xee3Nz2Yf_WyytUlgHBGR5O4")
+BOT_TOKEN    = environ.get("BOT_TOKEN", "6991957564:AAHykt-7sVTcB3VKYRIZdWMYKU8ck9NaEmM")
 DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://todixe1343:864wiFxyVD1VtG7x@cluster0.lt87lc7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002220547284"))
 ADMIN        = int(environ.get("ADMIN", "1913676476"))
