@@ -7,10 +7,10 @@
 import os
 from os import environ
 
-API_ID       = int(environ.get("API_ID", "24491383"))
-API_HASH     = environ.get("API_HASH", "78e18eba669cc519ffd7a3c89f9ed32a")
-BOT_TOKEN    = environ.get("BOT_TOKEN", "6991957564:AAHykt-7sVTcB3VKYRIZdWMYKU8ck9NaEmM")
+API_ID       = int(environ.get("API_ID", " 17436482"))
+API_HASH     = environ.get("API_HASH", "a44aa102b083d00639351f0426e7c0f9")
+BOT_TOKEN    = environ.get("BOT_TOKEN", "6561757789:AAGE97M5fTIkLSjLiqUJtHUGKCggSfSWDGo")
 DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://todixe1343:864wiFxyVD1VtG7x@cluster0.lt87lc7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002220547284"))
+LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002227727661"))
 ADMIN        = int(environ.get("ADMIN", "1913676476"))
-CHANNEL      = environ.get("CHANNEL", "@moiveadmin")
+CHANNEL      = environ.get("CHANNEL", "@PS_kingdom")
