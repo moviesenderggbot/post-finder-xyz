@@ -7,10 +7,10 @@
 import os
 from os import environ
 
-API_ID       = int(environ.get("API_ID", " 17436482"))
-API_HASH     = environ.get("API_HASH", "a44aa102b083d00639351f0426e7c0f9")
-BOT_TOKEN    = environ.get("BOT_TOKEN", "6561757789:AAGE97M5fTIkLSjLiqUJtHUGKCggSfSWDGo")
-DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://todixe1343:864wiFxyVD1VtG7x@cluster0.lt87lc7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002227727661"))
-ADMIN        = int(environ.get("ADMIN", "1256858577"))
-CHANNEL      = environ.get("CHANNEL", "@PS_kingdom")
+API_ID       = int(environ.get("API_ID", "22620068"))
+API_HASH     = environ.get("API_HASH", "11e2c113078324f7e36688baa86c3911")
+BOT_TOKEN    = environ.get("BOT_TOKEN", "")
+DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://pegawov487:wHVVNX9OIVtG7Ka1@cluster0.vvdig26.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002220547284"))
+ADMIN        = int(environ.get("ADMIN", "6062527012"))
+CHANNEL      = environ.get("CHANNEL", "@MX_FLIX")
